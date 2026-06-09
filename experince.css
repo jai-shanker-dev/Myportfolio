@@ -1,0 +1,43 @@
+/* Experience Section */
+ 
+.experience{
+    padding: 60px 10%;
+    background: #0f172a;
+    color: white;
+}
+ 
+.experience h2{
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 40px;
+    color: #38bdf8;
+}
+ 
+.exp-box{
+    background: #1e293b;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.3);
+    transition: 0.3s;
+}
+ 
+.exp-box:hover{
+    transform: translateY(-5px);
+}
+ 
+.exp-box h3{
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+ 
+.exp-box span{
+    color: #94a3b8;
+    font-size: 15px;
+}
+ 
+.exp-box p{
+    margin-top: 15px;
+    line-height: 1.7;
+    color: #d1d5db;
+}
+ 
